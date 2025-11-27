@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_video.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_video.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_registration.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_registration.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_journal.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_journal.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_item_help_contact.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/item_help_contact.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_auth.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_activity_main.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_help.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_help.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_help.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_positive.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_positive.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_camera.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_journal.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_journal.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_positive.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_positive.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_photo.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/xml_backup_rules.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_camera.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_settings.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_item_journal_entry.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/item_journal_entry.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_add.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_add_entry.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_add_entry.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_fragment_home.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_home.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/layout_item_positive_content.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/item_positive_content.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_settings.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-debug-60:/drawable_ic_call.xml.flat",
+        "source": "com.safetrace.safetraceapp-main-62:/drawable/ic_call.xml"
+    }
+]

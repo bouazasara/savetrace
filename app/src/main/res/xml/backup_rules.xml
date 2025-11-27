@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <full-backup-content>
+        <!-- Exclure les SharedPreferences pour la sécurité (mot de passe) -->
+        <exclude domain="sharedpref" path="."/>
+        <!-- Exclure le dossier des preuves pour ne pas le sauvegarder sur le cloud -->
+        <exclude domain="file" path="safe_media/"/>
+    </full-backup-content>
+</resources>

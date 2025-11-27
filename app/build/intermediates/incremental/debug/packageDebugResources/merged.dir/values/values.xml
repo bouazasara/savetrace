@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="safe_background">#F3F4F6</color>
+    <color name="safe_error">#B00020</color>
+    <color name="safe_on_primary">#FFFFFF</color>
+    <color name="safe_on_secondary">#000000</color>
+    <color name="safe_on_surface">#1F2937</color>
+    <color name="safe_primary">#673AB7</color>
+    <color name="safe_primary_variant">#512DA8</color>
+    <color name="safe_secondary">#FFC107</color>
+    <color name="safe_secondary_variant">#FFB300</color>
+    <color name="safe_surface">#FFFFFF</color>
+    <string name="app_name">SafeTrace</string>
+    <string name="button_add_entry">Nouvelle Entrée</string>
+    <string name="button_add_photo">Ajouter Photo</string>
+    <string name="button_add_video">Ajouter Vidéo</string>
+    <string name="button_save">Enregistrer</string>
+    <string name="hint_address">Adresse</string>
+    <string name="hint_age">Âge</string>
+    <string name="hint_emergency_contact">Numéro du contact d\'urgence</string>
+    <string name="hint_firstname">Prénom</string>
+    <string name="hint_journal_text">Racontez votre journée...</string>
+    <string name="hint_name">Nom</string>
+    <string name="hint_phone">Numéro de téléphone</string>
+    <string name="sos_message">Aide-moi, je suis en danger. Voici ma position : %s</string>
+    <string name="sos_notification_text">Écoute du bouton d\'alimentation en cours.</string>
+    <string name="sos_notification_title">SafeTrace SOS Actif</string>
+    <string name="title_help">Contacts Utiles</string>
+    <string name="title_journal">Mon Journal Sécurisé</string>
+    <string name="title_positive">Inspirations Positives</string>
+    <string name="title_registration">Inscription</string>
+    <string name="title_settings">Paramètres</string>
+    <style name="Theme.SafeTrace" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/safe_primary</item>
+        <item name="colorPrimaryVariant">@color/safe_primary_variant</item>
+        <item name="colorOnPrimary">@color/safe_on_primary</item>
+        
+        <item name="colorSecondary">@color/safe_secondary</item>
+        <item name="colorSecondaryVariant">@color/safe_secondary_variant</item>
+        <item name="colorOnSecondary">@color/safe_on_secondary</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowBackground">@color/safe_background</item>
+    </style>
+</resources>

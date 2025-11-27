@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette de couleurs douce et apaisante pour SafeTrace -->
+    <color name="safe_primary">#673AB7</color> <!-- Deep Purple -->
+    <color name="safe_primary_variant">#512DA8</color>
+    <color name="safe_on_primary">#FFFFFF</color>
+
+    <color name="safe_secondary">#FFC107</color> <!-- Amber -->
+    <color name="safe_secondary_variant">#FFB300</color>
+    <color name="safe_on_secondary">#000000</color>
+
+    <color name="safe_background">#F3F4F6</color> <!-- Light Gray Background -->
+    <color name="safe_surface">#FFFFFF</color>
+    <color name="safe_on_surface">#1F2937</color> <!-- Dark Gray Text -->
+    <color name="safe_error">#B00020</color>
+</resources>

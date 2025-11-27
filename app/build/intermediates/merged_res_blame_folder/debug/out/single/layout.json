@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_home.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_camera.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_registration.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_registration.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_journal.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_journal.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/item_journal_entry.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/item_journal_entry.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_auth.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_positive.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_positive.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_help.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_help.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_settings.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/item_help_contact.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/item_help_contact.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/item_positive_content.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/item_positive_content.xml"
+    },
+    {
+        "merged": "com.safetrace.safetraceapp-mergeDebugResources-59:/layout/fragment_add_entry.xml",
+        "source": "com.safetrace.safetraceapp-main-62:/layout/fragment_add_entry.xml"
+    }
+]

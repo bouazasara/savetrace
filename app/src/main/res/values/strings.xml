@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SafeTrace</string>
+    <string name="sos_message">Aide-moi, je suis en danger. Voici ma position : %s</string>
+    <string name="title_journal">Mon Journal Sécurisé</string>
+    <string name="title_help">Contacts Utiles</string>
+    <string name="title_positive">Inspirations Positives</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="title_registration">Inscription</string>
+    <string name="hint_name">Nom</string>
+    <string name="hint_firstname">Prénom</string>
+    <string name="hint_age">Âge</string>
+    <string name="hint_phone">Numéro de téléphone</string>
+    <string name="hint_address">Adresse</string>
+    <string name="hint_emergency_contact">Numéro du contact d\'urgence</string>
+    <string name="button_save">Enregistrer</string>
+    <string name="button_add_entry">Nouvelle Entrée</string>
+    <string name="hint_journal_text">Racontez votre journée...</string>
+    <string name="button_add_photo">Ajouter Photo</string>
+    <string name="button_add_video">Ajouter Vidéo</string>
+    <string name="sos_notification_title">SafeTrace SOS Actif</string>
+    <string name="sos_notification_text">Écoute du bouton d\'alimentation en cours.</string>
+</resources>
